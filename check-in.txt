@@ -201,3 +201,5 @@ Tue Mar  5 11:56:41 +07 2024 ## First Day
 [SPD] Mon Oct 21 15:25:08 +07 2024
 [SPD] Fri Oct 25 09:06:18 +07 2024
 [SPD] Wed Nov  6 09:07:24 +07 2024
+[SPD] Thu Nov  7 12:49:22 +07 2024
+[SPD] Thu Nov  7 12:49:31 +07 2024
