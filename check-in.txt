@@ -234,3 +234,5 @@ Tue Mar  5 11:56:41 +07 2024 ## First Day
 [SPD] Sat Apr 12 08:37:25 +07 2025
 [SPD] Sun Apr 20 13:58:50 +07 2025
 [SPD] Wed Jul  9 14:51:47 +07 2025
+[SPD] Sun Jul 20 10:34:50 +07 2025
+[SPD] Wed Sep 24 16:23:49 +07 2025
